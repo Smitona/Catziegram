@@ -1,6 +1,6 @@
 IP: 158.160.30.169;
-name_taski: projectforpracticum.myftp.biz;
-name_kittygram: catziegram.mooo.com;
+name_taski: https://projectforpracticum.myftp.biz;
+name_kittygram: https://catziegram.mooo.com;
 login: Catzie;
 password: rjnjvfnm;
 
