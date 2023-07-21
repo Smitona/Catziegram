@@ -22,7 +22,7 @@ git clone git@github.com:Smitona/infra_sprint1.git
 cd infra_sprint1/
 ```
 
-Создать и активировать вирутальное окружение с версией python 3.9:
+Создать и активировать вирутальное окружение версией python:
 ```
 python3 -m venv venv
 ```
