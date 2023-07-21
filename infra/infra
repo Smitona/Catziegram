@@ -27,7 +27,7 @@ server {
 
 server {
     server_name catziegram.mooo.com;
-    server_tikens off;
+    server_tokens off;
         location /admin/ {
         proxy_pass http://127.0.0.1:8080;
     }
