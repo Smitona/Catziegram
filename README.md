@@ -38,4 +38,4 @@ python manage.py migrate
 
 ---
 
-Стек Django, Python, SQLite, Gunicorn, WGSI.
+### Стек Django, Python, SQLite, Gunicorn, WGSI.
